@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstagramUIClone</string>
+    <string name="username">philip_lackner</string>
+    <string name="name">Programming Mentor</string>
+    <string name="followed_by">coding_in_flow, lanarhodes, codingwithmitch</string>
+    <string name="bio">10 years of programming experience \nAndroid developer \nLiving life one day at a time</string>
+</resources>
